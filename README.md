@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Jeffrey18276
-- 👀 I’m interested in software engineering and AI ...
+- 👀 I’m interested in software engineering and App Dev  ...
 - 🌱 I’m currently learning ...Btech Computer science and Engineering at VIT Chennai
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...@jeffrey18276 on github and 
+- 📫 How to reach me ...jeffreytomshaji29@gmail.com and 
 @jeffrey_tom_shaji on instagram
 
 <!---
