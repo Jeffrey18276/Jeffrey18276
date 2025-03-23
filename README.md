@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Tom Shaji</h1>
 <h3 align="center">A passionate mobile developer and coder</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffrey18276&label=Profile%20views&color=0e75b6&style=flat" alt="jeffrey18276" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffrey18276" alt="jeffrey18276" /></a> </p>
 
 - 🔭 I’m currently working on [Privacy Preserving Federated Learning using ZKP on healthcare](https://github.com/flahi/ZKP-for-Federated-Learning/tree/main)
@@ -35,3 +33,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffrey18276&show_icons=true&locale=en&layout=compact" alt="jeffrey18276" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffrey18276&show_icons=true&locale=en" alt="jeffrey18276" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffrey18276&" alt="jeffrey18276" /></p>
