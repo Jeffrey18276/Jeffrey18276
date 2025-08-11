@@ -2,10 +2,10 @@
 <h3 align="center">A passionate mobile developer and coder</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffrey18276" alt="jeffrey18276" /></a> </p>
-
+-🎓👨‍🎓 A B.Tech graduate from Vellore Institute Of Technology specialised in Computer Science And Engineering
 - 🔭 I’m currently working on [Privacy Preserving Federated Learning using ZKP on healthcare](https://github.com/flahi/ZKP-for-Federated-Learning/tree/main)
 
-- 🌱 I’m currently learning **Web Development and AI**
+- 🌱 I’m currently learning **AI especially working on LLM**
 
 - 👯 I’m looking to collaborate on **Mobile Application projects**
 
