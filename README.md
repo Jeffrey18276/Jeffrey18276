@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Jeffrey Tom Shaji</h1>
-<h3 align="center">A passionate mobile developer and coder</h3>
+<h3 align="center">A passionate mobile developer, coder and AI/ML enthusiast</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffrey18276" alt="jeffrey18276" /></a> </p>
 
 - 🔭 I’m currently working on [Privacy Preserving Federated Learning using ZKP on healthcare](https://github.com/flahi/ZKP-for-Federated-Learning/tree/main)
 
-- 🌱 I’m currently learning **Web Development and AI**
+- 🌱 I’m currently learning **AI**
 
 - 👯 I’m looking to collaborate on **Mobile Application projects**
 
@@ -13,11 +13,11 @@
 
 - 📝 I regularly do coding problems on leetcode on leetcode [https://leetcode.com/u/jeffreytomshaji29/](https://leetcode.com/u/jeffreytomshaji29/)
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter,AI/ML**
 
 - 📫 How to reach me **jeffreytomshaji29@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gfQNOeouCiyGUiPZrRnD67SFYuePa-y8/view?usp=sharing](https://drive.google.com/file/d/1gfQNOeouCiyGUiPZrRnD67SFYuePa-y8/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/149Aue-WqhJdIxTl-xrUXq7WfbqM6KK1e/view?usp=sharing](https://drive.google.com/file/d/149Aue-WqhJdIxTl-xrUXq7WfbqM6KK1e/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
